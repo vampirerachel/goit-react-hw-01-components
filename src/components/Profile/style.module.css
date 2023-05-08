@@ -3,7 +3,7 @@
 
 }
 .description{
-
+margin-top: 60px;
 display: flex;
     align-items: center;
     flex-direction: column;
@@ -22,12 +22,7 @@ p{
 .name{
 font-weight: bold;
 }
-.tag{
 
-}
-.location{
-
-}
 .stats{
 list-style: none;
     display: flex;
@@ -36,6 +31,7 @@ list-style: none;
             padding: 20px;
             border-radius: 10px;
             margin-top: 0;
+            margin-bottom: 60px;
     }
 .stats li {
 display: flex;
@@ -44,9 +40,3 @@ margin-right: 20px;
         border-radius: 10px;
 }
 
-.label{
-
-}
-.quantity{
-
-}

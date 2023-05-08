@@ -1,7 +1,46 @@
 .online {
     background-color: green;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: block;
+    margin-right: 20px;
 }
-
 .offline {
     background-color: red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: block;
+    margin-right: 20px;
+}
+.item{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    width: 270px;
+
+}
+.avatar{
+    display: flex;
+    margin-right:30px;
+}
+.name{
+    display: flex;
+    font-weight: bold;
+}
+.friends{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 60px;
+    
+}
+.title{
+    margin: 0;
+
 }

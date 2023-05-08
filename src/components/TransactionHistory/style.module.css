@@ -1,0 +1,19 @@
+.history{
+
+            background-color: #94DEDB;
+            border: 1px solid #022B44  ;
+            width: 500px;
+text-align: center;
+
+}
+.topRow{
+    background-color: #469FD5 ;
+    border: 1px solid #022B44  ;
+
+}
+tr td {
+   border: 1px solid #022B44 ;
+   padding: 20px 100px;
+   
+}
+
